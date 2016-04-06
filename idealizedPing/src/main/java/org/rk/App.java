@@ -1,4 +1,4 @@
-package org.idealized;
+package org.rk;
 
 /**
  * Hello world!

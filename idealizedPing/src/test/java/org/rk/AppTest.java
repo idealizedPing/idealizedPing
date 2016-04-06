@@ -1,4 +1,4 @@
-package org.idealized;
+package org.rk;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
